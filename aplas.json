@@ -1,23 +1,27 @@
 {
-  "id": "enable_paas",
-  "name": "Enable PaaS",
-  "categoryId": "accounting",
-  "description": "Cross-platform multi-tasking moratorium",
-  "investment_24m": "231",
-  "hostedtype": "SaaS",
-  "vendor_contact_name": "Garrot Philcott",
-  "licensing_cost": "105",
-  "status_color": "#00FF00",
-  "type": "SaaS",
-  "support_cost": "33",
-  "deployment_date": "21/1/02",
-  "end_of_maintenance": "23/10/17",
-  "department": "Training",
-  "status": "Active",
-  "end_of_life": "5/10/18",
-  "vendor_email": "Garrot.Philcott@Infor.com",
-  "months_to_renew_support": "36",
-  "sme_email": "Bary.Breheny@memento.net.au",
-  "vendor_phone": "+86 718 662 5681",
-  "investment_number": "93"
+  "applications": [
+    {
+      "id": "enable_paas",
+      "name": "Enable PaaS",
+      "categoryId": "accounting",
+      "description": "Cross-platform multi-tasking moratorium",
+      "investment_24m": "231",
+      "hostedtype": "SaaS",
+      "vendor_contact_name": "Garrot Philcott",
+      "licensing_cost": "105",
+      "status_color": "#00FF00",
+      "type": "SaaS",
+      "support_cost": "33",
+      "deployment_date": "21/1/02",
+      "end_of_maintenance": "23/10/17",
+      "department": "Training",
+      "status": "Active",
+      "end_of_life": "5/10/18",
+      "vendor_email": "Garrot.Philcott@Infor.com",
+      "months_to_renew_support": "36",
+      "sme_email": "Bary.Breheny@memento.net.au",
+      "vendor_phone": "+86 718 662 5681",
+      "investment_number": "93"
+    }
+  ]
 }
