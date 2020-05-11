@@ -9,14 +9,13 @@
       "description": "Cross-platform multi-tasking moratorium",
       "categoryId": "accounting",
       "applicationSize": "small",
-      "status": "standard",
       "licensing_cost": "105",
       "vendor_phone": "+86 718 662 5681",
       "status_color": "#00FF00",
       "department": "Training",
       "hostedtype": "SaaS",
       "deployment_date": "21/1/02",
-      "investment_number": "93",
+      "investment_number": 93,
       "type": "SaaS",
       "sme_email": "Bary.Breheny@memento.net.au",
       "investment_24m": "231",
@@ -24,11 +23,11 @@
       "support_cost": "33",
       "vendor_contact_name": "Garrot Philcott",
       "end_of_life": "5/10/18",
-      "months_to_renew_support": "36",
+      "months_to_renew_support": 36,
       "end_of_maintenance": "23/10/17",
       "integrations": [
         {
-          "assetId": "int-419",
+          "id": "int-419",
           "name": "INT-419",
           "shortName": null,
           "version": "0.1.6",
@@ -36,7 +35,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "cookley",
           "categoryId": "webmethods",
-          "status": "standard",
           "sme_name": "Hildegaard Tollit",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -49,7 +47,7 @@
           "golive_date": "2/11/16"
         },
         {
-          "assetId": "int-093",
+          "id": "int-093",
           "name": "INT-093",
           "shortName": null,
           "version": "0.1.2",
@@ -57,7 +55,6 @@
           "payload": "Product Attribute Group",
           "targetApplicationId": "cookley",
           "categoryId": "ftp",
-          "status": "standard",
           "sme_name": "Hannis Pantin",
           "status_color": "#00FF00",
           "department": "System Control",
@@ -70,7 +67,7 @@
           "golive_date": "28/7/17"
         },
         {
-          "assetId": "int-126",
+          "id": "int-126",
           "name": "INT-126",
           "shortName": null,
           "version": "9.5.2",
@@ -78,7 +75,6 @@
           "payload": "Allocation Distribution",
           "targetApplicationId": "cookley",
           "categoryId": "fuse",
-          "status": "standard",
           "sme_name": "Dominique Catling",
           "status_color": "#00FF00",
           "department": "Integration",
@@ -91,7 +87,7 @@
           "golive_date": "17/8/10"
         },
         {
-          "assetId": "int-445",
+          "id": "int-445",
           "name": "INT-445",
           "shortName": null,
           "version": "0.1.2",
@@ -99,7 +95,6 @@
           "payload": "Arthur Growth Extract Cost and Retail Extract",
           "targetApplicationId": "cookley",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Andie MacVanamy",
           "status_color": "#0000FF",
           "department": "Integration",
@@ -112,7 +107,7 @@
           "golive_date": "6/12/11"
         },
         {
-          "assetId": "int-032",
+          "id": "int-032",
           "name": "INT-032",
           "shortName": null,
           "version": "2.83",
@@ -120,7 +115,6 @@
           "payload": "Hierarchy",
           "targetApplicationId": "seamless_engine",
           "categoryId": "mft",
-          "status": "standard",
           "sme_name": "Gunner Cust",
           "status_color": "#0000FF",
           "department": "Integration",
@@ -133,7 +127,7 @@
           "golive_date": "16/9/11"
         },
         {
-          "assetId": "int-439",
+          "id": "int-439",
           "name": "INT-439",
           "shortName": null,
           "version": "5.13",
@@ -141,7 +135,6 @@
           "payload": "Group (Reclass)",
           "targetApplicationId": "cookley",
           "categoryId": "etl",
-          "status": "standard",
           "sme_name": "Ramsey Tindle",
           "status_color": "#00FF00",
           "department": "Datawarehouse",
